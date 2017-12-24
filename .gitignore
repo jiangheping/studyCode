@@ -5,3 +5,7 @@
 .settings/
 *.class
 target/
+*.lock
+*.bin
+*.jar
+*.bat
