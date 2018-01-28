@@ -2,8 +2,8 @@ package design.proxy.jdkDynamicProxy;
 
 import net.sf.cglib.proxy.InvocationHandler;
 import net.sf.cglib.proxy.Proxy;
-import proxy.staticProxy.ICoder;
-import proxy.staticProxy.JavaCoder;
+import design.proxy.staticProxy.ICoder;
+import design.proxy.staticProxy.JavaCoder;
 
 /**
  * 模拟用户找产品经理更改需求
